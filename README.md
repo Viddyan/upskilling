@@ -34,14 +34,14 @@ The upskilling sessions will take place **every Saturday for 4 hours**. Given th
 
 ### **Session Schedule (4 Hours)**
 
-| Time Slot          | Activity                                      | Mentor                           |
-|--------------------|-----------------------------------------------|---------------------------------|
-| 10:00 AM - 10:15 AM | **Welcome & Introduction**                    | Program Coordinator             |
-| 10:15 AM - 11:15 AM | **Core Technology Training (Module 1)**       | Track Mentor (Rotation)         |
-| 11:15 AM - 12:15 PM | **Hands-on Coding & Practical Exercises**     | Track Mentor (Rotation)         |
-| 12:15 PM - 12:30 PM | **Break & Networking**                       | -                               |
-| 12:30 PM - 1:30 PM  | **Peer-to-Peer Learning & Knowledge Sharing** | All Participants                |
-| 1:30 PM - 2:00 PM   | **Q&A, Feedback & Wrap-up**                  | Program Coordinator             |
+| Time Slot          | Activity                                      | 
+|--------------------|-----------------------------------------------|
+| 10:00 AM - 10:15 AM | **Welcome & Introduction**                    | 
+| 10:15 AM - 11:15 AM | **Core Technology Training (Module 1)**       | 
+| 11:15 AM - 12:15 PM | **Hands-on Coding & Practical Exercises**     | 
+| 12:15 PM - 12:30 PM | **Break & Networking**                       | 
+| 12:30 PM - 1:30 PM  | **Peer-to-Peer Learning & Knowledge Sharing** | 
+| 1:30 PM - 2:00 PM   | **Q&A, Feedback & Wrap-up**                  | 
 
 **Note:**  
 During exam periods, when trainers are more available, we may extend these sessions or introduce additional weekday slots for deeper dives into specific topics.
