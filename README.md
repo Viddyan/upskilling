@@ -9,7 +9,7 @@ The upskilling sessions will take place **every Saturday for 4 hours**. Given th
 
 ### **Program Overview**
 
-- **Primary Schedule:** Every Saturday
+- **Primary Schedule:** Every Working Saturday
 - **Duration:** 4 hours (10:00 AM - 2:00 PM)
 - **Flexible Timing:** Trainers are fully available during examination periods, allowing us to schedule more intensive or additional sessions if needed.
 - **Objective:** 
@@ -52,7 +52,7 @@ During exam periods, when trainers are more available, we may extend these sessi
 
 #### **Adaptive Scheduling**
 
-- **Core Saturdays:** Regular 4-hour sessions every Saturday.
+- **Core Working Saturdays:** Regular 4-hour sessions every Saturday.
 - **Exam Periods:** Since trainers are free during these times, we'll leverage their availability to schedule extra sessions, either extended hours on Saturdays or additional weekday sessions (1-2 hours) focusing on specific skills.
 - **On-Demand Training:** Trainers can request personalized sessions to upskill in specific areas where they need additional support.
 
@@ -86,7 +86,7 @@ During exam periods, when trainers are more available, we may extend these sessi
    - **Outcome:** Trainers will enhance their skills in scalable backend development using the MERN stack.
 
 6. **Full Stack Development - Back End (Spring Boot)**
-   - **Mentor:** Akash Sir
+   - **Mentor:** Kunal Sir / Akash Sir
    - **Focus Areas:** Spring Boot Microservices, RESTful APIs, Java Enterprise Solutions.
    - **Outcome:** Trainers will master Java-based backend development for robust enterprise applications.
 
@@ -101,7 +101,7 @@ During exam periods, when trainers are more available, we may extend these sessi
 | 3    | Data Science, AI/ML & AWS                             | Abhinav Sir           |
 | 4    | Full Stack Development - Front End (JavaScript & React)| Gyan                  |
 | 5    | Full Stack Development - Back End (Node, Express, MongoDB) | Isha Ma'am       |
-| 6    | Full Stack Development - Back End (Spring Boot)       | Akash Sir             |
+| 6    | Full Stack Development - Back End (Spring Boot)       | Kunal Sir / Akash Sir |
 
 *Post these 6 weeks, the schedule will be revised based on feedback and skill gaps identified.*
 
