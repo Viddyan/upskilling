@@ -28,7 +28,7 @@ The upskilling sessions will take place **every Saturday for 4 hours**. Given th
 | Data Science, AI/ML & AWS                         | Abhinav Sir |
 | Full Stack Development - Front End (JavaScript & React) | Gyan                  |
 | Full Stack Development - Back End (Node, Express, MongoDB) | Isha Ma'am         |
-| Full Stack Development - Back End (Spring Boot)   | Akash Sir                |
+| Full Stack Development - Back End (Spring Boot)   | Kunal Sir / Akash Sir    |
 
 ---
 
